@@ -7,3 +7,4 @@ Git tracks changes.
 Creating a new branch is quick AND simple.
 
   
+测试分支冲突
