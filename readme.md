@@ -6,7 +6,7 @@ Git tracks changes.
 
 王晓升
 
-** Git is a free software .. **
+**Git is a free software ..**
 
 测试分支冲突
 
