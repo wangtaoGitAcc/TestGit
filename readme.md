@@ -6,5 +6,7 @@ Git tracks changes.
 
 Creating a new branch is quick AND simple.
 
+** Git is a free software .. **
+
 测试分支冲突
 
